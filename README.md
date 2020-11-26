@@ -1,12 +1,17 @@
 ### Hi there 👋
+### 🌱 I’m currently learning Web.dev 
+### 🔭 I’m currently working on Persoal Project
+### 📫 How to reach me: https://www.linkedin.com/in/dev-kumar-06670b194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQX4xV4s2S965GWw4%2FB6ngg%3D%3D
 
+
+### 😄 Check Out My personal Website https://noddydev.github.io/DevKumar.github.io/
 <!--
 **Noddydev/Noddydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
